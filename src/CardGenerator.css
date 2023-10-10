@@ -1,0 +1,30 @@
+
+.CardGenerator {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  img {
+    max-width: 100%;
+    margin-top: 10px;
+  }
